@@ -1,7 +1,7 @@
 ###########################
 ### BOOTSTRAP FUNCTIONS ###
 ###########################
-System.Bootstrap(){
+System.Bootstrap() {
     local file
     local path
     for file in "$__oo__libPath"/system/*.sh
